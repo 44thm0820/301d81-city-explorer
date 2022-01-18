@@ -19,7 +19,7 @@
 
 ### Lab-06
 
-Number and name of feature: Feature #1: Setup React Portfolio Board on Trello and Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
+Number and name of feature: Feature #1: Setup React repository and api keys as listed on the first card on trello
 
 Estimate of time needed to complete: 10 hours
 
