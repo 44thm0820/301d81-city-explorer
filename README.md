@@ -13,6 +13,8 @@
 
 * [where repo is to find pull request](https://github.com/44thm0820/301d81-city-explorer)
 
+* [where WRRC drawing was whiteboarded with Robb Alexander and Brian Thornburg](./Screen Shot 2022-01-17 at 2.52.45 PM.png)
+
 ### Reflections and Comments
 * Consider including the answers to your daily journal and submission questions here
 * This is also a good place to reflect on the tools and resources used and learned
